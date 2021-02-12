@@ -1,0 +1,57 @@
+nav{
+    display: inline-block;
+     margin-left:15px 15px;
+}
+nav{
+float: right;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+.gb{
+    background-size: 32px 32px;
+    border: 0;
+    border-radius: 50%;
+    display: block;
+}
+a:hover{
+    color: blue;
+    text-decoration-line: underline;
+}
+.google{
+/* margin-left: 400px; */
+/* margin-top: 500px; */
+margin: 400px;
+}
+.O‘zbek{
+    /* display: inline-block; */
+    line-height: 28px;
+    text-decoration: none;
+    text-align: center;
+}
+.O‘zbek:visited{
+    color: #609;
+}
+.qaz{
+    color:#1a0dab
+}
+main input{
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa ;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    /* text-align: center; */
+    cursor: pointer;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+
+}
